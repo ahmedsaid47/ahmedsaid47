@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Said</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on **Scooter Site**
+- 🔭 I’m currently working on **E-commerce Site**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **kilicsaud1221@gmail.com**
 
